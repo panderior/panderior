@@ -2,5 +2,5 @@
 - 👀 I’m interested in Machine & Deep Learning, Embedded & Distributed AI Systems
 - 🌱 I’m currently learning fast.ai, TensorFlow
 - 🌱 I'm competent on Python, Arch Linux, Django, Java, Arduino & Andriod
-- 💞️ I’m looking to collaborate on projects regarding Deep Learning, Embedded Wearable AI systems, Arch Linux
+- 🌱 I’m looking to collaborate on projects regarding Deep Learning, Embedded Wearable AI systems, Arch Linux
 - 📫 How to reach me:- Email: dugyeshihm@gmail.com, Telegram: @DugBab
