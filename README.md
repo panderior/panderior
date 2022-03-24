@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duguma Yeshitla (@panderior)
-- 👀 I’m interested in Machine & Deep Learning, Embedded & Distributed AI Systems
-- 🌱 I’m currently learning fast.ai, TensorFlow
+- 👀 I’m interested in Agent Based Modeling, Machine & Deep Learning, AI Systems
+- 🌱 I’m currently learning fast.ai, TensorFlow, NetLogo, MASON
 - 🌱 I'm competent on Python, Arch Linux, Django, Java, Arduino & Andriod
-- 🌱 I’m looking to collaborate on projects regarding Deep Learning, Embedded Wearable AI systems
+- 🌱 I’m looking to collaborate on projects regarding Agent Based Modline & Machine Learning
 - 📫 How to reach me:- Email: dugyeshihm@gmail.com, Telegram: @DugBab
