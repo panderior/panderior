@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning fast.ai, TensorFlow, NetLogo, MASON
 - 🌱 I'm competent on Python, Arch Linux, Django, Java, Arduino & Andriod
 - 🌱 I’m looking to collaborate on projects regarding Agent Based Modline & Machine Learning
-- 📫 How to reach me:- Email: dugyeshihm@gmail.com
